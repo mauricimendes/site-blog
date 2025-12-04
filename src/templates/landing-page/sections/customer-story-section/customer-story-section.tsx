@@ -23,8 +23,8 @@ const customerStories = [
 
 export const CustomerStorySection = () => {
   return (
-    <section className="container py-8 md:py-10">
-      <div className="flex flex-col items-center gap-12">
+    <section className="container">
+      <div className="flex flex-col items-center py-12 md:py-32 lg:py-32 gap-12">
         <h2
           className="font-sans text-heading-xl text-gray-100"
         >
